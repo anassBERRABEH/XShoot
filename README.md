@@ -22,5 +22,5 @@ Ces technologies combinées assurent une reconnaissance précise et rapide des n
 
 ## Accès aux Répertoires GitHub
 
-- **Frontend** : Retrouvez le code source du frontend sur GitHub via le lien suivant : [front-end_XShot](https://github.com/zetatiabdelhakim/front-end_XShot)
-- **Backend** : Retrouvez le code source du backend sur GitHub via le lien suivant : [back-end_XShot](https://github.com/zetatiabdelhakim/back-end_XShot)
+- **Frontend** : Retrouvez le code source du frontend sur GitHub via le lien suivant : [front-end_XShot](https://github.com/anassBERRABEH/Front_XShoot)
+- **Backend** : Retrouvez le code source du backend sur GitHub via le lien suivant : [back-end_XShot](https://github.com/anassBERRABEH/Back_XShoot)
